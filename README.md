@@ -163,8 +163,3 @@ This project is built to:
 * Learn data organization
 
 ---
-
-
-## 👤 Author
-
-**Yuanda Dhama Prandita**
